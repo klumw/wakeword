@@ -4,7 +4,7 @@ Unlock the power of voice with this ready-to-go template for keyword and wakewor
 
 ## ✨ Project Highlights
 
-* **Ready-to-Use ML Model:** Jumpstart your project with our publicly available model on [Wakeword-Computer](https://studio.edgeimpulse.com/public/277934/live). Feel free to clone and customize it with your own unique keyword or start from the beginning and learn [how to build your own model](https://docs.edgeimpulse.com/docs/tutorials/end-to-end-tutorials/audio/responding-to-your-voice).
+* **Ready-to-Use ML Model:** Jumpstart your project with our publicly available model on [Wakeword-Computer](https://studio.edgeimpulse.com/public/277934/live). Feel free to clone and customize it with your own unique keyword or start from scratch and learn [how to build your own model](https://docs.edgeimpulse.com/docs/tutorials/end-to-end-tutorials/audio/responding-to-your-voice).
 * **Powered by Edge Impulse:** The included machine learning audio model is expertly crafted using [Edge Impulse](https://edgeimpulse.com/), making edge AI accessible to everyone.
 * **Learn by Doing:** This project serves as the perfect educational template to understand the end-to-end process of programming and training your own custom wakeword or keyword detection system.
 * **'Computer' is Listening:** The default configuration is set to recognize the keyword 'computer', allowing you to test the functionality immediately.
