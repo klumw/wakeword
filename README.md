@@ -1,6 +1,6 @@
 # Keyword/Wakeword Detection on ESP32-S3: Your Voice-Activated Project Starter! 🚀
 
-Unlock the power of voice with this ready-to-go template for keyword and wakeword detection using the ESP32-S3-DevKitC-1! This project provides a solid foundation for building your own voice-controlled applications, from smart assistants to interactive devices.
+Unlock the power of voice with this ready-to-go template for keyword and wakeword detection using the ESP32-S3-DevKitC-1 board! This project provides a solid foundation for building your own voice-controlled applications, from smart assistants to interactive devices.
 
 ## ✨ Project Highlights
 
